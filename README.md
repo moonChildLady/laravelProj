@@ -40,8 +40,7 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-	
-Generating a New Application Key
+
 ```
 php artisan key:generate
 ```
