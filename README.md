@@ -1,4 +1,4 @@
-### Laravel Ecommerce Platform
+# Laravel Ecommerce Platform
 
 ## Features 
 - Multiple language display for front-end and back-end
